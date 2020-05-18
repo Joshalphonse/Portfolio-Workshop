@@ -1,6 +1,6 @@
 # Build Your Portfolio 
 
-In this workshop, you will build a [TODO appliction](https://corvidtodo.com) using Corvid by Wix.
+In this workshop, you will build a portfolio website using Corvid by Wix.
 
 **:link: Useful links** 
 

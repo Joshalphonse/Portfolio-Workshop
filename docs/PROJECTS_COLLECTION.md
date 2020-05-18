@@ -15,4 +15,4 @@ In this module, we'll create a database collection to store your portfolio proje
 
 ❗ **We just created a new database collection. In the next module, we'll present its data in our web application.**
 
-⏩ Next Module => [Dynamic Pages](PRESENTING_THE_TASKS.md)
+⏩ Next Module => [Dynamic Pages](PRESENTING_THE_PROJECTS.md)

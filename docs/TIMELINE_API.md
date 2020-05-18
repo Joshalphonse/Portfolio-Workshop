@@ -40,4 +40,4 @@ function techAnimation() {
 
 ❗ **We just created an animation using javascript! Have fun and be creative with this API.
 
-⏩ BONUS: QR CODE => [Dynamic Pages](PRESENTING_THE_TASKS.md)
+⏩ BONUS: QR CODE => [Add A QR Code](QR_CODE.md)

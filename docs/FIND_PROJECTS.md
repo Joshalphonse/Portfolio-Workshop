@@ -67,4 +67,4 @@ dataQuery
 ```
 Nice! Now test it out, your projects should  filter based on the selected categories. 
 
-⏩ Next Module => [Corvid + SendGrid ](PACKAGE_MANAGER.md)
+⏩ Next Module => [Corvid + SendGrid ](SENDGRID_API.md)

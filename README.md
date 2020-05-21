@@ -12,11 +12,11 @@ In this workshop, you will build a portfolio website using Corvid by Wix.
 
 ### Getting started
 
-This workshop is based on a pre-designed [template]().
+This workshop is based on a pre-designed [template](https://joshuaa44.wixsite.com/mysite-56).
 
 **:white_check_mark: Step-by-step instructions**
 
-1. Go to this [template]().
+1. Go to this [template](https://editor.wix.com/html/editor/web/renderer/new?siteId=ec661a4f-240b-4a14-90c3-37408ab4dedb&metaSiteId=9a944022-dc54-4ad7-abbb-b47423e96b0f).
 2. Click <img src="docs/assets/edit-this-site.png" alt="Edit this site" width="10%" height="10%">.
 3. Sign in to Wix.
 4. Let's start having fun!

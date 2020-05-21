@@ -38,4 +38,4 @@ This workshop is divided into 9 modules. Each module describes what we're going 
 | [Production](docs/PRODUCTION.md)                                                           | Go live.                                                               |
 
 ⚠️ These modules are intended to be executed in order.
-# Portfolio-Workshop
+# Build Your Portfolio 

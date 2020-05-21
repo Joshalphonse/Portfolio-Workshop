@@ -1,6 +1,6 @@
 ## CREATE DYNAMIC PAGES
 
-From the **Site Structure** sidebar on the left, under the **Database** section, hover over the **Project collection** and click the **settings cog** then click **Add a Dynamic Page**.
+From the **Site Structure** sidebar on the left, under the **Database** section, hover over the **Project collection** and click the **settings cog**. Next, click **Add a Dynamic Page**.
 
 <p padding="40px"><img src="assets/repeater.png" alt="Repeater" width="80%" height="80%"></p>
 
@@ -14,17 +14,17 @@ Lets start from the Projects(All) page.
     <p padding="40px"><img src="assets/view-properties.png" alt="Add data set" width="40%" height="40%"></p>
 
 
-2. Click the selection tags and select 'Manage Choices'. Input 3 or more tags related to technologies used to build your projects (programming languages, frameworks, software etc...)
+2. Click the selection tags and select 'Manage Choices'. Input the tags you made in your project collection(programming languages, frameworks, software etc...)
     <p padding="40px"><img src="assets/manage-choices.png" alt="manage choices" width="40%" height="40%"></p>
 
 3. Add a Title to the page and change the text to 'No Results'. Right click the the title, select View Properties and change the id to 'noResultsFound'. Next, select 'Hidden on load'.   <p padding="40px"><img src="assets/no-results.png" alt="no results" width="40%" height="40%"></p> 
-4. Import the wix Data API at the top of the page.
+4. Open the IDE and import the wix Data API at the top of the page.
 
 ```
 import wixData from 'wix-data';
 ``` 
 
-5. Lets add two constants that will help us out later on in our code. one variable for the collection's name and the other for the field we'll use to filter our data through.
+5. Lets add two constants that will help us out later on in our code. One constant for the collection's name and the other for the field we'll use to filter our data through.
 ```
 const collectionName = 'Projects';
 const fieldToFilterByInCollection = 'tags';

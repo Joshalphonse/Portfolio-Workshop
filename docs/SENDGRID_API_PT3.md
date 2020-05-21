@@ -5,14 +5,12 @@
 import { sendEmail, sendEmailWithRecipient } from 'backend/email'
 
 
-}
 ```
 2. Add a function called sendFormData. Create variables for the values of each text input.
 ```
 import { sendEmail, sendEmailWithRecipient } from 'backend/email'
 
 $w.onReady(function () {
-
 
 });
 
@@ -29,7 +27,7 @@ function sendFormData() {
 import { sendEmail, sendEmailWithRecipient } from 'backend/email'
 
 $w.onReady(function () {
-
+	
 
 });
 
@@ -47,12 +45,16 @@ function sendFormData() {
 		.then(response => console.log(response));
 }
 ```
-4. In the $w.onReady function use $w to select the data set created for the contact form collection. Use the onAfterSave function with the sendFormData function as an argument  
+4. In the **$w.onReady()** function use **$w()** to select the dataset created for the contact form collection. Use the [**onAfterSave()** ](https://www.wix.com/corvid/reference/wix-dataset.Dataset.html#onAfterSave)function with the sendFormData function as an argument. Also you can also add placeholders!   
 ```
 import { sendEmail, sendEmailWithRecipient } from 'backend/email'
 
 $w.onReady(function () {
 	$w("#dataset1").onAfterSave(sendFormData);
+	// placeholders
+	$w("#nameInput").placeholder = "First Name";
+	$w("#emailInput").placeholder = "Email";
+	$w("#messageInput").placeholder = "Send a message!";
 
 });
 

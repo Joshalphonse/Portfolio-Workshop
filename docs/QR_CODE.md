@@ -1,5 +1,5 @@
 ## Animations with the Timeline API
-In this module, we'll add a QR code that goes to your site! Use this when you're networking.
+In this module, we'll add a QR code that goes to your site! Use this when you're networking at a meet up or conference.
 
 - QR Code API: [QR code](http://goqr.me/api/)
 

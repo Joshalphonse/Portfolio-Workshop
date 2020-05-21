@@ -45,7 +45,7 @@ function sendFormData() {
 		.then(response => console.log(response));
 }
 ```
-4. In the **$w.onReady()** function use **$w()** to select the dataset created for the contact form collection. Use the [**onAfterSave()** ](https://www.wix.com/corvid/reference/wix-dataset.Dataset.html#onAfterSave)function with the sendFormData function as an argument. Also you can also add placeholders!   
+4. In the **$w.onReady()** function use **$w()** to select the dataset created for the **Contact form collection**. Use the [**onAfterSave()** ](https://www.wix.com/corvid/reference/wix-dataset.Dataset.html#onAfterSave)function with the sendFormData function as an argument. You can also add placeholders!   
 ```
 import { sendEmail, sendEmailWithRecipient } from 'backend/email'
 

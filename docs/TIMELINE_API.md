@@ -16,7 +16,7 @@ import { timeline } from "wix-animations"
 import wixAnimations from 'wix-animations';
 ```
 
-3. add a function named **spinAnimation** and call it in the $w.onReady function to start the animation on page load.
+3. Add a function named **spinAnimation** and call it in the $w.onReady function to start the animation on page load.
 ```
 import { timeline } from "wix-animations"
 import wixAnimations from 'wix-animations';

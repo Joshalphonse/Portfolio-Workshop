@@ -4,9 +4,9 @@ In this module, we'll use Wix Fetch to integrate the **Sendgrid** API with our p
 
 **💡 New concepts**
 
-- \[Wix Fetch API](https://www.wix.com/corvid/reference/wix-fetch.html) - Fetching resources from 3rd party services using HTTPS.
+- [Wix Fetch API](https://www.wix.com/corvid/reference/wix-fetch.html) - Fetching resources from 3rd party services using HTTPS.
 
-**⚠️** Make sure to Sign up for [Sengrid](https://sendgrid.com/)  and create an API key for the email API.
+**⚠️** Make sure to Sign up for [Sengrid](https://sendgrid.com/) and create an API key for the email API. Don't forget to verify your sender email within the sendgrid dashboard.
 
 **✅ Step-by-step directions**
 1. Create a new collection called **Contact Form**. In the collection settings window, select **Form Submission** under 'What's this collection for?'. Add new fields for the name, email and message.

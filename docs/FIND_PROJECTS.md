@@ -7,7 +7,7 @@ In this module, we'll continue working on our selection tags. We'll create a fun
 
 **✅ Step-by-step directions**
 
-1. Add a function that will load data to the repeater. Pass an empty array of selected categories as a parameter.
+1. On the Poroject (All) page, add a function that will load data to the repeater. Pass an empty array of selected categories as a parameter.
 
 ```
 function loadDataToRepeater(selectedCategories = []) {

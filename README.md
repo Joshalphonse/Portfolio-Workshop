@@ -23,7 +23,7 @@ This workshop is based on a pre-designed [template]().
 
 ### modules
 
-This workshop is divided into 10 modules. Each module describes what we're going to build and provides step-by-step insructions to help you implement the architecture and verify your work.
+This workshop is divided into 9 modules. Each module describes what we're going to build and provides step-by-step insructions to help you implement the architecture and verify your work.
 
 | Module                                                                       | Description                                                               |
 | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------- |

@@ -16,7 +16,7 @@ This workshop is based on a pre-designed [template](https://joshuaa44.wixsite.co
 
 **:white_check_mark: Step-by-step instructions**
 
-1. Go to this [template](https://editor.wix.com/html/editor/web/renderer/new?siteId=ec661a4f-240b-4a14-90c3-37408ab4dedb&metaSiteId=9a944022-dc54-4ad7-abbb-b47423e96b0f).
+1. Go to this [template](https://editor.wix.com/html/editor/web/renderer/new?siteId=0fb2fc3f-42da-46eb-bad1-86489cdd0598&metaSiteId=d505f92f-04f3-45fc-885b-73f4e38e8096).
 2. Click <img src="docs/assets/edit-this-site.png" alt="Edit this site" width="10%" height="10%">.
 3. Sign in to Wix.
 4. Let's start having fun!
@@ -34,7 +34,7 @@ This workshop is divided into 9 modules. Each module describes what we're going 
 | [Wix Fetch + Sengrid Part 2](docs/SENGRID_API_PT2.md)                | Send emails with the SendGrid API.           |
 | [Wix Fetch + Sengrid Part 3](docs/SENDGRID_API_PT3.md)                                          | Send emails with the SendGrid API cont. 
 | [Timeline API](docs/TIMELINE_API.md)                       | Create animations with the timeline API collection.                            |
-| [QR code](docs/JS_WEB_MODULES.md)                                                   | Add a QR code!                                                            |                                                               |
+| [QR code](docs/QR_CODE.md)                                                   | Add a QR code!                                                            |                                                               |
 | [Production](docs/PRODUCTION.md)                                                           | Go live.                                                               |
 
 ⚠️ These modules are intended to be executed in order.

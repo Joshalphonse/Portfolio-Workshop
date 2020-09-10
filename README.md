@@ -27,15 +27,15 @@ This workshop is divided into 9 modules. Each module describes what we're going 
 
 | Module                                                                       | Description                                                               |
 | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| [Create a database collection for projects](docs/PROJECTS_COLLECTION.md)           | Store all the projects in a dedicated collection.                            |
-| [Present the projects](docs/PRESENTING_THE_PROJECTS.md)                | Present the projects on the dynamic page |
-| [FIlter your projects](docs/FIND_PROJECTS.md)              | Filter your projects based on the category.                                   |
-| [Wix Fetch + Sengrid](docs/SENDGRID_API.md) | Set up the contact page.                    |
-| [Wix Fetch + Sengrid Part 2](docs/SENGRID_API_PT2.md)                | Send emails with the SendGrid API.           |
-| [Wix Fetch + Sengrid Part 3](docs/SENDGRID_API_PT3.md)                                          | Send emails with the SendGrid API cont. 
-| [Timeline API](docs/TIMELINE_API.md)                       | Create animations with the timeline API collection.                            |
-| [QR code](docs/QR_CODE.md)                                                   | Add a QR code!                                                            |                                                               |
-| [Production](docs/PRODUCTION.md)                                                           | Go live.                                                               |
+| [1. Create a database collection for projects](docs/PROJECTS_COLLECTION.md)           | Store all the projects in a dedicated collection.                            |
+| [2. Present the projects](docs/PRESENTING_THE_PROJECTS.md)                | Present the projects on the dynamic page |
+| [3. Filter your projects](docs/FIND_PROJECTS.md)              | Filter your projects based on the category.                                   |
+| [4. Wix Fetch + Sengrid](docs/SENDGRID_API.md) | Set up the contact page.                    |
+| [5. Wix Fetch + Sengrid Part 2](docs/SENGRID_API_PT2.md)                | Send emails with the SendGrid API.           |
+| [6. Wix Fetch + Sengrid Part 3](docs/SENDGRID_API_PT3.md)                                          | Send emails with the SendGrid API cont. 
+| [7. Timeline API](docs/TIMELINE_API.md)                       | Create animations with the timeline API collection.                            |
+| [8. QR code](docs/QR_CODE.md)                                                   | Add a QR code!                                                            |                                                               |
+| [9. Production](docs/PRODUCTION.md)                                                           | Go live.                                                               |
 
 ⚠️ These modules are intended to be executed in order.
 # Build Your Portfolio 

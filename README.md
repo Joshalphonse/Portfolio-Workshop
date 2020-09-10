@@ -37,5 +37,5 @@ This workshop is divided into 9 modules. Each module describes what we're going 
 | [8. QR code](docs/QR_CODE.md)                                                   | Add a QR code!                                                            |                                                               |
 | [9. Production](docs/PRODUCTION.md)                                                           | Go live.                                                               |
 
-⚠️ These modules are intended to be executed in order.
+⚠️ These modules are not intended to be executed in order.
 # Build Your Portfolio 
